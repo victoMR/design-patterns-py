@@ -2,7 +2,7 @@
 
 En este repo se encuentran ejemplos de patrones de diseño en Python.
 
-### Patrones de creación9
+### Patrones de creación
 - [Singleton](https://github.com/victoMR/design-patterns-py/tree/main/Patrones_creacionales/singleton-pattern)
 - [Factory](https://github.com/victoMR/design-patterns-py/tree/main/Patrones_creacionales/factory-pattern)
 - [Abstract Factory](https://github.com/victoMR/design-patterns-py/tree/main/Patrones_creacionales/abstract-factory-pattern)
