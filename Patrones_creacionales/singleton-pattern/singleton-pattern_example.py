@@ -45,4 +45,3 @@ if __name__ == "__main__":
         dataBaseInstances[0].get_connection().execute("SELECT 1")
     except sqlite3.ProgrammingError as e:
         print(f"Conexión cerrada correctamente: {e}")
-
