@@ -1,4 +1,4 @@
-# 🔍 Sistema de Logging Dinámico: Maestría en el Patrón Decorator
+# 🔍 Sistema de Logging Dinámico
 
 ## 🎓 Introducción Conceptual
 
